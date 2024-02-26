@@ -1,0 +1,15 @@
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.sourcelink.json
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/bin/Debug/net8.0/Task3
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/bin/Debug/net8.0/Task3.deps.json
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/bin/Debug/net8.0/Task3.dll
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/bin/Debug/net8.0/Task3.pdb
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.dll
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/refint/Task3.dll
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.pdb
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/Users/natalapolezaeva/Documents/учеба/программирование/01_CSHARP/Lesson1/Task3/obj/Debug/net8.0/ref/Task3.dll
